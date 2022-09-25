@@ -1,0 +1,75 @@
+body{ background-color: rgb(159, 176, 170);}
+#nav0>#ul0{
+    list-style-type:none;
+    margin:0;
+    padding:0; }
+    #nav0>#ul0>.li0{float:left;}
+    #nav0>#ul0>.li0>.a0{
+        display:block;
+        text-align:center;
+        padding:16px;
+     font-weight:bold;
+     text-decoration: none;
+     color: beige;
+    } 
+     #nav2>#ul2{
+    list-style-type:none;
+    }#nav2>#ul2>.li2{font-style: solid;text-decoration: none;
+    font-size:20px;}
+    #nav2>#ul2>.li2>.a2{
+        display:block;
+    color: black;} 
+        .fa {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+border-radius: 50%;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-instagram {  
+background: #125688;  
+color: white;  
+}  
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(227, 210, 210);
+  color: white;
+}
+#div1{display:inline-block;margin-left: -10px;margin-top:-10px;margin-right:-83px;border:0px;position: relative;width:70%;}
+#img1{margin-top:0px;width:1000px;height:1200px;z-index:-1;}
+#home{height:1200px;display:inline-block;background-color: rgb(236, 243, 247);float:right;width:530px;margin-right:-400px;margin-left:0px ;margin-top:-10px;}
+#homediv1{margin-bottom:400px;margin-left:200px;}
+#homediv2{margin-bottom:0px;margin-left:80px;}
+#homediv3{margin-left:230px;margin-top:-70px}
+#img2{width:150px; height:250px ;margin-bottom:0px}
+#p2{font-size:50px ;letter-spacing: 3px;font-weight: bold;color:rgb(185, 44, 68);margin-left:70px;margin-bottom:100px;margin-top:-300px;}
+#buy{color:blanchedalmond;background-color: rgb(27, 213, 213) ;border: none; width:100px;height:50px ;font-size :20px;}
+#p3{text-align: center;font-size:20px;margin-top: 100px ;}
+#features{text-align: center;font-size :30px;margin-top:100px ;}
+#divfeature{display:flex;display:block;border-color: rgb(230, 230, 230);box-shadow:rgba(0,0,0,0.1) 0px 2px 5px 0px;border-style: solid;margin-right:600px;margin-left:600px;}
+.imgfeature{width:299px;height: 299px;align-items: center;display:block;}
+.pfeature{font-weight: bold;margin-left: auto;margin-top:16px;margin-bottom: 0px;text-align: center;margin-right: auto;}
+.featureprice{text-align:center;margin-bottom:0px;margin-top:5px}
+.featurebutton{background-color: rgb(255, 255, 255);font-weight: bold;margin-bottom:10px;margin-top:15px;margin-left:85px ;padding-top: 3px;padding-bottom: 3px;padding-left: 35px;padding-right: 35px;border-bottom-width:1px ;}
+#cupcakes{text-align: center;font-size:30px ;margin-top: 150px;}
+.cakediv1{display:flex;display:inline-block;border-color: rgb(230, 230, 230);box-shadow:rgba(0,0,0,0.1) 0px 2px 5px 0px;border-style: solid;margin-right:10px;margin-left:120px;}
+.cakediv{display:flex;display:inline-block;border-color: rgb(230, 230, 230);box-shadow:rgba(0,0,0,0.1) 0px 2px 5px 0px;border-style: solid;margin-right:10px;margin-left:10px;}
+.cakediv2{display:flex;display:inline-block;border-color: rgb(230, 230, 230);box-shadow:rgba(0,0,0,0.1) 0px 2px 5px 0px;border-style: solid;margin-right:120px;margin-left:10px;}
+#divabout{border-top:3px solid rgb(225, 210, 210);margin-top:100px}
+#about{text-align: center;}
+#aboutdivp{display:inline-block;margin-left: 450px;margin-top: 0px; margin-right: 50px;}
+#aboutp{text-align-last: left;line-height: 30px;text-align: center;font-size: 17px;}
+#imgisa{border-radius: 71px;width: 144px;height: 144px;}
+#pisa{line-height: 30px}
